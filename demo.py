@@ -1,0 +1,17 @@
+"""
+print ("你好，浪晋学院！")
+print(29999+7383)
+print("lalala")
+print(8>9)
+print(8/5)
+print(9%4)
+print("嘻嘻"*999)
+name = input("请输入:")
+print ("辛苦啦”，name)
+a =input ("请输入数字:")
+b =input ("请输入数字:")
+print("a+b")
+"""
+a =int(input("请输入数字："))
+b =int(input("请输入数字："))
+print(a+b)
